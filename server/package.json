@@ -1,5 +1,5 @@
 {
-  "name": "personal-budget1",
+  "name": "personal-budget",
   "version": "1.0.0",
   "description": "The path to NGInx main folder:\r /usr/share/nginx/html",
   "main": "server.js",
@@ -7,16 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mokshithlolakpuri/personalbudget1"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "d3": "^7.9.0",
     "express": "^4.21.0"
   }
 }
